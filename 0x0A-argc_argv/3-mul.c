@@ -44,6 +44,7 @@ int _atoi(char *s)
 	
 	return (n);
 }
+
 /**
  * main - multiplies two numbers
  * @argc: number of arguments
